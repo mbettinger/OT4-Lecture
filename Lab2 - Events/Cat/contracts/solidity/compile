@@ -1,0 +1,2 @@
+#!/bin/bash
+solc Cat.sol  --evm-version "byzantium" --bin --abi --overwrite --optimize -o ../build

@@ -1,0 +1,1 @@
+web3j generate solidity -b ./catContract.bin -a ./catContract.abi -p cat -o ../../src/main/java
